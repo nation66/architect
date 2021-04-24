@@ -8,7 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Crypto Governance, Own Your Nation
+description: Crypto Governance, Free Your Nation
 show_downloads: false
-google_analytics: 
 theme: jekyll-theme-architect
